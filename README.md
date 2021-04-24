@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusufdehbi
 - 👀 I’m interested in ui ux
-- 🌱 I’m currently learning full stack
+- 🌱 I’m currently learning full stack development with asp.net in backend
 - 📫 How to reach me yusufdehbi@gmail.com
 
 <!---
